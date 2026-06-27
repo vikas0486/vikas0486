@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Vikash Jaiswal 👋
 
-<!--
-**vikas0486/vikas0486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Platform Engineering | DevOps | AWS | Terraform | Kubernetes | AI
 
-Here are some ideas to get you started:
+🌐 Portfolio:
+https://vikash-portfolio-alpha.vercel.app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Engineering Case Studies:
+https://vikash-portfolio-alpha.vercel.app/engineering
+
+💼 LinkedIn:
+https://linkedin.com/in/...
+
+## Tech Stack
+
+![AWS](...)
+![Terraform](...)
+![Kubernetes](...)
+![Docker](...)
+
+## Featured Projects
+
+- AI Forge
+- Vikash Portfolio
+- DevSecOps Patterns
+- Terraform Automation
+
+## GitHub Stats
+
+(dynamic stats widgets)
