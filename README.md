@@ -2,11 +2,10 @@
 
 🚀 Platform Engineering | DevOps | AWS Cloud | Kubernetes | AI-Native Engineering
 
-Powered by.
-<img width="1254" height="1254" alt="AI Forge Logo" src="https://github.com/user-attachments/assets/7b112165-3311-4b1e-8ee3-0f1957da0050" />
-
-
 A modern Platform Engineer and DevOps professional who uses AI-native engineering practices to accelerate delivery, improve quality, implementation governance and automate repetitive tasks, while maintaining full ownership, review, and understanding of what goes into production.
+
+<img width="1254" height="1254" alt="AI Forge Logo" src="https://github.com/user-attachments/assets/7b112165-3311-4b1e-8ee3-0f1957da0050" />
+Powered by.
 
 ---
 
