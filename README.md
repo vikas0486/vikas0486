@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2800&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Vikash+Jaiswal;Lead+Platform+Engineer;Principal+DevOps+Architect;SRE+%7C+GenAI+Infrastructure+Builder;16%2B+Years+of+Engineering+Depth" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2800&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=VIKASH+JAISWAL;Lead+Platform+Engineer;Principal+DevOps+Architect;SRE+%7C+GenAI+Infrastructure+Builder;16%2B+Years+of+Engineering+Depth" alt="Typing SVG" />
 
 <br/>
 
